@@ -1,0 +1,25 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+env/
+
+# Local environment variables
+.env
+
+# Selenium WebDriver executables
+chromedriver
+geckodriver
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
